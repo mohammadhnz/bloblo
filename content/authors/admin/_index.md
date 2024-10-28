@@ -61,16 +61,11 @@ education:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
   - area: High School Diploma in Mathematics and Physics
-    institution: Massachusetts Institute of Technology
+    institution: National Organization for Development of Exceptional Talents
     date_start: 2016-09-01
     date_end: 2019-05-26
     summary: |
       GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
