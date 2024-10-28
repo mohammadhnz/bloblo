@@ -67,6 +67,18 @@ education:
     summary: |
       GPA: 3.8/4.0
 work:
+  - position: Teaching Assistant
+    company_name: Sharif University of Technology
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-09-01
+    date_end: ''
+    summary: |2-
+      Courses:
+      - Software Engineering
+      - Systems Analysis & Design
+      - Database Design
+      - Advanced Programming
   - position: Software Engineer
     company_name: Divar
     company_url: ''
@@ -90,7 +102,7 @@ work:
     company_name: Hengam
     company_url: ''
     company_logo: ''
-    date_start:  2023-06-01
+    date_start:  2022-06-01
     date_end:  2023-09-01
     summary: |2-
       - Developed features for products that were extension apps for Shopify stores.
@@ -100,8 +112,8 @@ work:
     company_name: Yektanet
     company_url: ''
     company_logo: ''
-    date_start:  2023-06-01
-    date_end:  2023-09-01
+    date_start:  2021-01-01
+    date_end:  2022-06-01
     summary: |2-
       - Designed and implemented solutions for team requirements across various projects.
       - Developed video ads microservices using Node.js and Django, ensuring efficient and scalable ad delivery. Utilized technologies such as CDN, S3 to optimize system performance and reliability
@@ -117,11 +129,39 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: GO
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 80
+        icon: code-bracket
+      - name: Django
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Docker
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Java
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: OOP
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: OOP
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: PostgreSQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: Redis
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: Elasticsearch
         description: ''
         percent: 40
         icon: circle-stack
@@ -129,26 +169,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Piano
         description: ''
-        percent: 60
-        icon: person-simple-walk
+        percent: 80
+        icon: piano
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
-  - name: English
+  - name: Persian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
