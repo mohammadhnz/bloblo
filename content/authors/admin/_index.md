@@ -103,7 +103,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start:  2022-06-01
-    date_end:  2023-09-01
+    date_end:  2022-09-01
     summary: |2-
       - Developed features for products that were extension apps for Shopify stores.
       - Embraced Test-Driven Development (TDD) to ensure clean, structured, and high-quality code.
@@ -149,10 +149,6 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: OOP
-        description: ''
-        percent: 80
-        icon: code-bracket
       - name: PostgreSQL
         description: ''
         percent: 40
@@ -172,7 +168,7 @@ skills:
       - name: Piano
         description: ''
         percent: 80
-        icon: piano
+        icon: music
       - name: Cats
         description: ''
         percent: 100
@@ -218,4 +214,4 @@ awards:
 
 ## About Me
 
-I am currently completing my Bachelor of Science in Computer Engineering at Sharif University of Technology. My research interests include software engineering, the Internet of Things (IoT), and applied natural language processing (NLP). I am passionate about exploring innovative solutions at the intersection of these fields to advance technology and improve everyday life.
+I am currently completing my Bachelor of Science in Computer Engineering at Sharif University of Technology(the top university in Iran based on QS rankings) . My research interests include software engineering and applied natural language processing (NLP). I am passionate about exploring innovative solutions at the intersection of these fields to advance technology and improve everyday life.
