@@ -45,9 +45,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Software Engineering
-  - Natural Language Processing
-  - Information Retrieval
+  - Cyber-Physical Systems
+  - Distributed Systems
+  - Cyber-Security
 
 education:
   - area: Bachelor of Science in Computer Engineering
