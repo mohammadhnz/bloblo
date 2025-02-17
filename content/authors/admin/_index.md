@@ -47,7 +47,7 @@ profiles:
 interests:
   - Cyber-Physical Systems
   - Distributed Systems
-  - Cyber-Security
+  - Applied NLP
 
 education:
   - area: Bachelor of Science in Computer Engineering
